@@ -31,7 +31,7 @@ export default function App() {
         </div>
         <div className="mini-section">
           <strong>Learning path: GitHub → Install → Analyze → Deploy → Axios → API UI → Weather</strong>
-          <span>LAB results are not submitted. Apply the skills to your own team project.</span>
+          <span>LAB results are not submitted. Apply the skills to your own team project. *test</span>
         </div>
       </main>
     </div>
